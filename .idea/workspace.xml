@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79ed2ec2-0d97-450e-b235-4c85536f01f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTabPaneTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTableView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstDatePicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstDropdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstLookupField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstMessageDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstNumberField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstTextColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstTickColumn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/TstLiteralUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal_ar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal_in_ID.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/tiwulfx/res/literal_in_ID.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pitchdockfx" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pitchdockfx" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pitchdockfx" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pitchdockfx" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jP0STOQfz7CS9PbSk8aywIkizv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.33793104" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.keenwrite.dock.demo.Launcher" />
+      <module name="pitchdockfx.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.keenwrite.dock.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pitchdockfx [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.pitchdockfx [build]" />
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ed2ec2-0d97-450e-b235-4c85536f01f4" name="Default Changelist" comment="" />
+      <created>1603690419893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603690419893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="390" width="1026" height="842" key="#Project_Structure" timestamp="1603691464704">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state x="834" y="390" width="1026" height="842" key="#Project_Structure/0.28.2560.1529@0.28.2560.1529" timestamp="1603691464704" />
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom" timestamp="1603692629906">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629906" />
+    <state width="1767" height="364" key="GridCell.Tab.0.center" timestamp="1603692629905">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.0.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629905" />
+    <state width="1767" height="364" key="GridCell.Tab.0.left" timestamp="1603692629905">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.0.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629905" />
+    <state width="1767" height="364" key="GridCell.Tab.0.right" timestamp="1603692629906">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.0.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629906" />
+    <state width="1767" height="448" key="GridCell.Tab.1.bottom" timestamp="1603691955188">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="448" key="GridCell.Tab.1.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955188" />
+    <state width="1767" height="448" key="GridCell.Tab.1.center" timestamp="1603691955187">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="448" key="GridCell.Tab.1.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955187" />
+    <state width="1767" height="448" key="GridCell.Tab.1.left" timestamp="1603691955186">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="448" key="GridCell.Tab.1.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955186" />
+    <state width="1767" height="448" key="GridCell.Tab.1.right" timestamp="1603691955187">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="448" key="GridCell.Tab.1.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955187" />
+    <state x="848" y="448" key="SettingsEditor" timestamp="1603692599287">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state x="848" y="448" key="SettingsEditor/0.28.2560.1529@0.28.2560.1529" timestamp="1603692599287" />
+    <state x="546" y="259" width="1611" height="1108" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603690848434">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state x="546" y="259" width="1611" height="1108" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.28.2560.1529@0.28.2560.1529" timestamp="1603690848434" />
+    <state x="1058" y="562" width="586" height="502" key="find.popup" timestamp="1603691989590">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state x="1058" y="562" width="586" height="502" key="find.popup/0.28.2560.1529@0.28.2560.1529" timestamp="1603691989590" />
+    <state x="1014" y="455" width="672" height="678" key="search.everywhere.popup" timestamp="1603692125130">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state x="1014" y="455" width="672" height="678" key="search.everywhere.popup/0.28.2560.1529@0.28.2560.1529" timestamp="1603692125130" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="getClass().getResource(&quot;/com/keenwrite/dock/demo/DemoDetachableTab.fxml&quot;)" language="JAVA" />
+        <watch expression="path.indexOf(&quot;/com/keenwrite/dock/demo/DetachableTab.fxml&quot;)" language="JAVA" />
+        <watch expression="DetachableTab.class.getResource(DetachableTab.class.getSimpleName() + &quot;.fxml&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
