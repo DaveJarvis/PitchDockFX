@@ -12,22 +12,6 @@ Dockable panels provide a way to rearrange major application components, includi
 - File editor pane
 - HTML preview pane
 
-Users need the ability to customize the application layout. This can support:
-
-- Hiding the preview pane
-- Hiding the definition pane
-- Moving the definition pane to the right (or below)
-
-This is required in preparation to add the following new panels:
-
-- File system tree views (#68)
-- Error message log (e.g., to show a history of errors from R and other aspects of the application)
-
-A tab-based solution implies the following application constraints:
-
-- Multiple definition files can be opened, and switching definition tabs updates the preview
-- Multiple previews can be opened (HTML, Markdown)
-
 ## Requirements
 
 Hard (must) and soft (should) requirements include:
