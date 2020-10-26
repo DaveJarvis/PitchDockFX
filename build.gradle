@@ -1,0 +1,62 @@
+plugins {
+  id 'java'
+  id 'org.openjfx.javafxplugin' version '0.0.9'
+}
+
+repositories {
+  mavenCentral()
+  jcenter()
+
+  maven {
+    url 'https://oss.sonatype.org/content/repositories/snapshots/'
+  }
+
+  maven {
+    url "https://nexus.bedatadriven.com/content/groups/public"
+  }
+}
+
+// Assume a cross-platform überjar unless targetOs is set.
+String[] os = ["win", "mac", "linux"]
+
+if (project.hasProperty('targetOs')) {
+  if ("windows" == targetOs) {
+    os = ["win"]
+  } else {
+    os = [targetOs]
+  }
+}
+
+javafx {
+  version = "14"
+  modules = ['javafx.controls', 'javafx.swing']
+}
+
+dependencies {
+  def v_junit = '5.4.2'
+
+  implementation 'org.openjfx:javafx-controls:11.0.2'
+  implementation 'commons-beanutils:commons-beanutils:1.8.3'
+
+  def fx = ['controls', 'graphics', 'fxml', 'swing']
+
+  fx.each { fxitem ->
+    os.each { ositem ->
+      println "org.openjfx:javafx-${fxitem}:${javafx.version}:${ositem}"
+
+      runtimeOnly "org.openjfx:javafx-${fxitem}:${javafx.version}:${ositem}"
+    }
+  }
+
+  testImplementation "org.junit.jupiter:junit-jupiter-api:${v_junit}"
+  testRuntime "org.junit.jupiter:junit-jupiter-engine:${v_junit}"
+}
+
+group = 'com.panemu'
+version = '3.1'
+description = 'tiwulfx'
+sourceCompatibility = '14'
+
+test {
+  useJUnitPlatform()
+}

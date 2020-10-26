@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<fx:root prefHeight="410.0" prefWidth="496.0" type="VBox"
+         xmlns="http://javafx.com/javafx"
+         xmlns:fx="http://javafx.com/fxml">
+  <HBox alignment="BASELINE_CENTER" spacing="10.0">
+    <Label id="app-title" text="TiwulFX 2.0"/>
+    <Label id="sub-title" text="Detachable Tab"/>
+  </HBox>
+</fx:root>
