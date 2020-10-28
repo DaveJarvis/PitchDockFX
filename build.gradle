@@ -42,7 +42,3 @@ group = 'com.keenwrite'
 version = '3.1'
 description = 'pitchdockfx'
 sourceCompatibility = '14'
-
-test {
-  useJUnitPlatform()
-}
