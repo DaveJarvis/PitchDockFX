@@ -1,16 +1,9 @@
 package com.keenwrite.dock.demo;
 
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
-import javafx.scene.control.Label;
-import javafx.scene.control.Tab;
-import javafx.scene.control.TabPane;
 import javafx.scene.layout.VBox;
 
 import java.io.IOException;
-import java.util.Set;
 
 /**
  * @author amrullah
