@@ -1,16 +1,25 @@
 # PitchDockFX
 
-PitchDockFX is yet another JavaFX 11 docking framework.
+PitchDockFX is yet another JavaFX 11 docking framework. Dockable panels provide a way to rearrange major application components.
 
-Code extracted and simplified from [TiwulFX 3.1](https://bitbucket.org/panemu/tiwulfx/src/master/).
+Code in this repository extracted and simplified from [TiwulFX 3.1](https://bitbucket.org/panemu/tiwulfx/src/master/).
 
-# Comparison
+# Demo
 
-Dockable panels provide a way to rearrange major application components, including (from left to right):
+Run the demo as follows:
 
-- Definition pane
-- File editor pane
-- HTML preview pane
+1. Open the project in IntelliJ.
+1. Expand `com.keenwrite.dock.demo` under **src/test**.
+1. Open `Launcher`.
+1. Run `main`.
+
+The application launches:
+
+![Screenshot](images/screenshot.png)
+
+# Alternatives
+
+This section reviews numerous JavaFX docking solutions. Except for TiwulFX, none of the other libraries could meet the requirements.
 
 ## Requirements
 
@@ -36,7 +45,7 @@ A number of solutions exist; this section reviews the pros and cons of each libr
 
 ### ✔ [PitchDockFX](https://github.com/DaveJarvis/PitchDockFX) (fork)
 
-Forked from TiwulFx 3 (below) to extract docking functionality.
+Forked from TiwulFX 3 (below) to extract docking functionality.
 
 - **Pros:** Small footprint, can be styled, works on Linux, lightweight
 - **Cons:** < 10 stargazers, tab-based, LGPLv2, forked
@@ -51,7 +60,7 @@ Forked from TiwulFx 3 (below) to extract docking functionality.
 - **Pros:** Potentially works with Linux and does not require tab-panes?
 - **Cons:** No external documentation, < 10 stargazers, **no license**
 
-### ✘ [TiwulFx 3](https://bitbucket.org/panemu/tiwulfx/)
+### ✘ [TiwulFX 3](https://bitbucket.org/panemu/tiwulfx/)
 
 - **Pros:** Recently updated, demo video looks good, supports JavaFX 11, works on Linux
 - **Cons:** Framework, tab-based, LGPLv2.1, spreadsheet support, **no small footprint** (many dependencies, including POI)
