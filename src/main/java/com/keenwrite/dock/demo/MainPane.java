@@ -25,6 +25,7 @@
  */
 package com.keenwrite.dock.demo;
 
+import com.keenwrite.dock.control.DetachableTab;
 import com.keenwrite.dock.control.DetachableTabPane;
 import com.keenwrite.dock.control.DetachableTabPaneFactory;
 import javafx.fxml.FXML;
@@ -37,7 +38,7 @@ import javafx.scene.layout.VBox;
 /**
  * @author amrullah
  */
-public class DetachableTab extends VBox {
+public class MainPane extends VBox {
 
   @FXML
   private DetachableTabPane tpnScope1;
@@ -48,8 +49,8 @@ public class DetachableTab extends VBox {
   @FXML
   private DetachableTabPane tpnNoScope;
 
-  public DetachableTab() {
-    final var clazz = DetachableTab.class;
+  public MainPane() {
+    final var clazz = MainPane.class;
     final var resource = clazz.getResource( clazz.getSimpleName() + ".fxml" );
     final var fxmlLoader = new FXMLLoader( resource );
     fxmlLoader.setRoot( this );
@@ -66,11 +67,9 @@ public class DetachableTab extends VBox {
 
   private void init() {
     tpnScope1.getTabs()
-             .add( new com.keenwrite.dock.control.DetachableTab( "1 Scope1",
-                                                                 createTabContent() ) );
+             .add( new DetachableTab( "1 Scope1", createTabContent() ) );
     tpnScope1.getTabs()
-             .add( new com.keenwrite.dock.control.DetachableTab( "2 Scope1",
-                                                                 createTabContent() ) );
+             .add( new DetachableTab( "2 Scope1", createTabContent() ) );
 
     tpnScope1.setSceneFactory( ( param ) -> {
       Scope frm = new Scope();
@@ -87,18 +86,14 @@ public class DetachableTab extends VBox {
     } );
 
     tpnScope2.getTabs()
-             .add( new com.keenwrite.dock.control.DetachableTab( "1 Scope2",
-                                                                 createTabContent() ) );
+             .add( new DetachableTab( "1 Scope2", createTabContent() ) );
     tpnScope2.getTabs()
-             .add( new com.keenwrite.dock.control.DetachableTab( "2 Scope2",
-                                                                 createTabContent() ) );
+             .add( new DetachableTab( "2 Scope2", createTabContent() ) );
     tpnScope2.setTabClosingPolicy( TabPane.TabClosingPolicy.ALL_TABS );
     tpnNoScope.getTabs()
-              .add( new com.keenwrite.dock.control.DetachableTab( "1 No Scope",
-                                                                  createTabContent() ) );
+              .add( new DetachableTab( "1 No Scope", createTabContent() ) );
     tpnNoScope.getTabs()
-              .add( new com.keenwrite.dock.control.DetachableTab( "2 No Scope",
-                                                                  createTabContent() ) );
+              .add( new DetachableTab( "2 No Scope", createTabContent() ) );
     tpnNoScope.getTabs().add( new Tab( "traditional tab" ) );
     tpnNoScope.setTabClosingPolicy( TabPane.TabClosingPolicy.UNAVAILABLE );
     tpnNoScope.setDetachableTabPaneFactory( new DetachableTabPaneFactory() {

@@ -7,7 +7,7 @@
          xmlns="http://javafx.com/javafx"
          xmlns:fx="http://javafx.com/fxml">
   <HBox alignment="BASELINE_CENTER" spacing="10.0">
-    <Label id="app-title" text="TiwulFX 2.0"/>
+    <Label id="app-title" text="TiwulFX 3.1"/>
     <Label id="sub-title" text="Detachable Tab"/>
   </HBox>
 </fx:root>

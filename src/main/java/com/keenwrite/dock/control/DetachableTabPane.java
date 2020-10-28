@@ -58,7 +58,6 @@ public class DetachableTabPane extends TabPane {
   private boolean closeIfEmpty = false;
 
   public DetachableTabPane() {
-    getStyleClass().add( "detachable-tab-pane" );
     attachListeners();
   }
 
@@ -428,6 +427,7 @@ public class DetachableTabPane extends TabPane {
 
   private void repaintPath( DragEvent event, int source ) {
     boolean hasTab = !getTabs().isEmpty();
+
     if( hasTab && btnLeft.contains( btnLeft.screenToLocal( event.getScreenX(),
                                                            event.getScreenY() ) ) ) {
       pathModel.refresh( 0,

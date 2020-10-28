@@ -10,8 +10,8 @@ public class Main extends Application {
 
   @Override
   public void start( Stage stage ) {
-    final var tab = new DetachableTab();
-    final var scene = new Scene( tab );
+    final var pane = new MainPane();
+    final var scene = new Scene( pane );
     final var stylesheets = scene.getStylesheets();
     stylesheets.add( getResource( "detachable-tab", "css" ) );
     stylesheets.add( getResource( "../dock", "css" ) );

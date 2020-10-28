@@ -5,33 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ed2ec2-0d97-450e-b235-4c85536f01f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTabPaneTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTableView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstDatePicker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstDropdown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstLookupField.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstMessageDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstNumberField.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstTextColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/FrmTstTickColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/MainWrapper2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/Record.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/panemu/tiwulfx/common/TstLiteralUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal_ar.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/test/res/test-literal_in_ID.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com/panemu/tiwulfx/res/literal_in_ID.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/control/DetachableTabPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/control/DetachableTabPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/control/DetachableTabPathModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/control/DetachableTabPathModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/demo/DetachableTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/demo/MainPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/keenwrite/dock/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/demo/DetachableTab.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/demo/MainPane.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/demo/detachable-tab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/dock.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/dock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/top.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/keenwrite/dock/image/top.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +87,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.33793104" />
@@ -170,38 +158,42 @@
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
     <state x="834" y="390" width="1026" height="842" key="#Project_Structure/0.28.2560.1529@0.28.2560.1529" timestamp="1603691464704" />
-    <state width="1767" height="364" key="GridCell.Tab.0.bottom" timestamp="1603692629906">
+    <state x="660" y="28" width="943" height="1526" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603859397784">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="364" key="GridCell.Tab.0.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629906" />
-    <state width="1767" height="364" key="GridCell.Tab.0.center" timestamp="1603692629905">
+    <state x="660" y="28" width="943" height="1526" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.2560.1529@0.28.2560.1529" timestamp="1603859397784" />
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom" timestamp="1603860466559">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="364" key="GridCell.Tab.0.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629905" />
-    <state width="1767" height="364" key="GridCell.Tab.0.left" timestamp="1603692629905">
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603860466559" />
+    <state width="1767" height="364" key="GridCell.Tab.0.center" timestamp="1603860466558">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="364" key="GridCell.Tab.0.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629905" />
-    <state width="1767" height="364" key="GridCell.Tab.0.right" timestamp="1603692629906">
+    <state width="1767" height="364" key="GridCell.Tab.0.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603860466558" />
+    <state width="1767" height="364" key="GridCell.Tab.0.left" timestamp="1603860466558">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="364" key="GridCell.Tab.0.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603692629906" />
-    <state width="1767" height="448" key="GridCell.Tab.1.bottom" timestamp="1603691955188">
+    <state width="1767" height="364" key="GridCell.Tab.0.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603860466558" />
+    <state width="1767" height="364" key="GridCell.Tab.0.right" timestamp="1603860466558">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="448" key="GridCell.Tab.1.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955188" />
-    <state width="1767" height="448" key="GridCell.Tab.1.center" timestamp="1603691955187">
+    <state width="1767" height="364" key="GridCell.Tab.0.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603860466558" />
+    <state width="1767" height="448" key="GridCell.Tab.1.bottom" timestamp="1603695371619">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="448" key="GridCell.Tab.1.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955187" />
-    <state width="1767" height="448" key="GridCell.Tab.1.left" timestamp="1603691955186">
+    <state width="1767" height="448" key="GridCell.Tab.1.bottom/0.28.2560.1529@0.28.2560.1529" timestamp="1603695371619" />
+    <state width="1767" height="448" key="GridCell.Tab.1.center" timestamp="1603695371619">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="448" key="GridCell.Tab.1.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955186" />
-    <state width="1767" height="448" key="GridCell.Tab.1.right" timestamp="1603691955187">
+    <state width="1767" height="448" key="GridCell.Tab.1.center/0.28.2560.1529@0.28.2560.1529" timestamp="1603695371619" />
+    <state width="1767" height="448" key="GridCell.Tab.1.left" timestamp="1603695371619">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state width="1767" height="448" key="GridCell.Tab.1.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603691955187" />
+    <state width="1767" height="448" key="GridCell.Tab.1.left/0.28.2560.1529@0.28.2560.1529" timestamp="1603695371619" />
+    <state width="1767" height="448" key="GridCell.Tab.1.right" timestamp="1603695371619">
+      <screen x="0" y="28" width="2560" height="1529" />
+    </state>
+    <state width="1767" height="448" key="GridCell.Tab.1.right/0.28.2560.1529@0.28.2560.1529" timestamp="1603695371619" />
     <state x="848" y="448" key="SettingsEditor" timestamp="1603692599287">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
@@ -210,10 +202,10 @@
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
     <state x="546" y="259" width="1611" height="1108" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.28.2560.1529@0.28.2560.1529" timestamp="1603690848434" />
-    <state x="1058" y="562" width="586" height="502" key="find.popup" timestamp="1603691989590">
+    <state x="1058" y="562" width="586" height="502" key="find.popup" timestamp="1603860497301">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
-    <state x="1058" y="562" width="586" height="502" key="find.popup/0.28.2560.1529@0.28.2560.1529" timestamp="1603691989590" />
+    <state x="1058" y="562" width="586" height="502" key="find.popup/0.28.2560.1529@0.28.2560.1529" timestamp="1603860497301" />
     <state x="1014" y="455" width="672" height="678" key="search.everywhere.popup" timestamp="1603692125130">
       <screen x="0" y="28" width="2560" height="1529" />
     </state>
