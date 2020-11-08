@@ -1,3 +1,13 @@
+# Archived
+
+This repository was created as an interim solution until the docking
+component of TiwulFX was separated from TiwulFX 3.1. Please refer to
+the following repository for more details:
+
+[https://github.com/panemu/tiwulfx-dock](https://github.com/panemu/tiwulfx-dock)
+
+---
+
 # PitchDockFX
 
 PitchDockFX is yet another JavaFX 11 docking framework. Dockable panels provide a way to rearrange major application components.

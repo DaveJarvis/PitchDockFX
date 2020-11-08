@@ -12,9 +12,7 @@ public class Main extends Application {
   public void start( Stage stage ) {
     final var pane = new MainPane();
     final var scene = new Scene( pane );
-    final var stylesheets = scene.getStylesheets();
-    stylesheets.add( getResource( "detachable-tab", "css" ) );
-    stylesheets.add( getResource( "../dock", "css" ) );
+    scene.getStylesheets().add( getResource( "../dock", "css" ) );
     stage.setTitle( "Demo 1" );
     stage.setScene( scene );
     stage.setX( 10 );
